@@ -1,0 +1,572 @@
+1675789129625	geckodriver	INFO	Listening on 127.0.0.1:41235
+1675789130226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePaccxG"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675789131158	Marionette	INFO	Marionette enabled
+1675789131163	Marionette	INFO	Listening on port 35651
+WebDriver BiDi listening on ws://localhost:45833
+Read port: 35651
+1675789131344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePaccxG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45833/devtools/browser/c0397a1e-64a3-4dd9-beec-b61d9f771c34
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675790263590	Marionette	INFO	Stopped listening on port 35651
+1675790374115	geckodriver	INFO	Listening on 127.0.0.1:34597
+1675790374709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefPPBi6"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675790375503	Marionette	INFO	Marionette enabled
+1675790375507	Marionette	INFO	Listening on port 45003
+Read port: 45003
+WebDriver BiDi listening on ws://localhost:53199
+1675790375801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefPPBi6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53199/devtools/browser/2de55477-ec76-421b-a17a-932bb28b62ed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675794134392	Marionette	INFO	Stopped listening on port 45003
+1675794960015	geckodriver	INFO	Listening on 127.0.0.1:56415
+1675794960580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexnQECc"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675794961645	Marionette	INFO	Marionette enabled
+1675794961650	Marionette	INFO	Listening on port 46645
+WebDriver BiDi listening on ws://localhost:51523
+Read port: 46645
+1675794961883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexnQECc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51523/devtools/browser/45661f7e-d3d7-47d0-afc6-5ac5061c72a1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675795075240	geckodriver	INFO	Listening on 127.0.0.1:36761
+1675795075921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNo4Oe1"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675795077223	Marionette	INFO	Marionette enabled
+1675795077229	Marionette	INFO	Listening on port 37785
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37785
+WebDriver BiDi listening on ws://localhost:55259
+1675795077467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNo4Oe1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55259/devtools/browser/a64ee3a8-5544-46f1-b216-ca72f52b1cba
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675795091864	Marionette	INFO	Stopped listening on port 46645
+1675795193656	geckodriver	INFO	Listening on 127.0.0.1:52673
+1675795194267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8RjOXP"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675795195461	Marionette	INFO	Marionette enabled
+1675795195467	Marionette	INFO	Listening on port 46731
+WebDriver BiDi listening on ws://localhost:41855
+Read port: 46731
+1675795195711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8RjOXP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41855/devtools/browser/c0b2ccb4-422c-473b-bfc5-8a4db80600b6
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675795564498	Marionette	INFO	Stopped listening on port 37785
+1675795566637	Marionette	INFO	Stopped listening on port 46731
+1675795587406	geckodriver	INFO	Listening on 127.0.0.1:39285
+1675795587507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef1EzDb"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675795588765	Marionette	INFO	Marionette enabled
+1675795588778	Marionette	INFO	Listening on port 39171
+WebDriver BiDi listening on ws://localhost:50705
+Read port: 39171
+1675795589022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef1EzDb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50705/devtools/browser/4563e7a3-363e-4cb6-8606-16da6c4f4869
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675796053685	geckodriver	INFO	Listening on 127.0.0.1:41193
+1675796054239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2kG9Wn"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675796055399	Marionette	INFO	Marionette enabled
+1675796055404	Marionette	INFO	Listening on port 40635
+WebDriver BiDi listening on ws://localhost:37849
+Read port: 40635
+1675796055588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2kG9Wn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37849/devtools/browser/fdb3cdbb-396b-4b63-8cee-d115f74d7949
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 66: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 66: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1675796617301	Marionette	INFO	Stopped listening on port 39171
+1675796653489	geckodriver	INFO	Listening on 127.0.0.1:44003
+1675796654097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenJZmA4"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675796655140	Marionette	INFO	Marionette enabled
+1675796655144	Marionette	INFO	Listening on port 32817
+WebDriver BiDi listening on ws://localhost:54773
+Read port: 32817
+1675796655407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenJZmA4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54773/devtools/browser/aab40406-b631-4ab8-aaf4-03e05a061132
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675796700735	Marionette	INFO	Stopped listening on port 32817
+1675796735927	geckodriver	INFO	Listening on 127.0.0.1:40847
+1675796736482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXJeUMU"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675796737419	Marionette	INFO	Marionette enabled
+1675796737424	Marionette	INFO	Listening on port 38251
+WebDriver BiDi listening on ws://localhost:44319
+Read port: 38251
+1675796737628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXJeUMU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44319/devtools/browser/ea4fc24f-773b-4f29-b331-ba7598889eed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675796835257	geckodriver	INFO	Listening on 127.0.0.1:40029
+1675796835846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile67op60"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675796836913	Marionette	INFO	Marionette enabled
+1675796836917	Marionette	INFO	Listening on port 36429
+WebDriver BiDi listening on ws://localhost:38867
+Read port: 36429
+1675796837062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile67op60/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38867/devtools/browser/08f75b31-a9d4-4441-99a4-f588ce91a916
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675796973713	geckodriver	INFO	Listening on 127.0.0.1:33229
+1675796974274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU0YUW0"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675796975240	Marionette	INFO	Marionette enabled
+1675796975245	Marionette	INFO	Listening on port 38029
+WebDriver BiDi listening on ws://localhost:58191
+Read port: 38029
+1675796975420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU0YUW0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58191/devtools/browser/c20cca5e-fa7f-4e37-9c02-944a3c606a99
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675797228460	Marionette	INFO	Stopped listening on port 38029
+1675797234357	Marionette	INFO	Stopped listening on port 38251
+1675797300198	geckodriver	INFO	Listening on 127.0.0.1:52009
+1675797300267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex45MMi"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797301246	Marionette	INFO	Marionette enabled
+1675797301251	Marionette	INFO	Listening on port 44197
+WebDriver BiDi listening on ws://localhost:60517
+Read port: 44197
+1675797301435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex45MMi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60517/devtools/browser/7841b105-194e-4b7b-b348-308e132b8d45
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675797402735	geckodriver	INFO	Listening on 127.0.0.1:46427
+1675797403314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevlkuvG"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797404483	Marionette	INFO	Marionette enabled
+1675797404487	Marionette	INFO	Listening on port 36695
+WebDriver BiDi listening on ws://localhost:41093
+Read port: 36695
+1675797404717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevlkuvG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41093/devtools/browser/1016f2cc-175e-4f5c-8e73-5e3931597ffe
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675797409646	Marionette	INFO	Stopped listening on port 44197
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1675797411656	Marionette	INFO	Stopped listening on port 36429
+1675797517062	Marionette	INFO	Stopped listening on port 36695
+1675797600923	geckodriver	INFO	Listening on 127.0.0.1:60203
+1675797601016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelRHXZp"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797602274	Marionette	INFO	Marionette enabled
+1675797602280	Marionette	INFO	Listening on port 43335
+WebDriver BiDi listening on ws://localhost:40909
+Read port: 43335
+1675797602462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelRHXZp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40909/devtools/browser/eaab9307-e7af-46ae-afbc-9a04456da8ea
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675797628792	geckodriver	INFO	Listening on 127.0.0.1:51053
+1675797629330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTJ7128"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797630918	Marionette	INFO	Marionette enabled
+1675797630925	Marionette	INFO	Listening on port 39975
+Read port: 39975
+WebDriver BiDi listening on ws://localhost:59111
+1675797631165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTJ7128/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59111/devtools/browser/f1d9713c-9fdd-4722-bcdb-57aa71e30d1a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675797722938	geckodriver	INFO	Listening on 127.0.0.1:39955
+1675797723494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAe23Ot"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797724650	Marionette	INFO	Marionette enabled
+1675797724654	Marionette	INFO	Listening on port 40773
+WebDriver BiDi listening on ws://localhost:36903
+Read port: 40773
+1675797724814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAe23Ot/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36903/devtools/browser/5be9d0e3-7d46-455c-b515-1c60cf362d20
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675797730286	Marionette	INFO	Stopped listening on port 40635
+1675797732060	Marionette	INFO	Stopped listening on port 43335
+1675797733773	Marionette	INFO	Stopped listening on port 39975
+1675797830642	geckodriver	INFO	Listening on 127.0.0.1:39189
+1675797831232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejXu3jy"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797832803	Marionette	INFO	Marionette enabled
+1675797832808	Marionette	INFO	Listening on port 44011
+WebDriver BiDi listening on ws://localhost:48083
+Read port: 44011
+1675797832978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejXu3jy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48083/devtools/browser/bc08886a-1fb5-451b-a31e-ae401fe206c0
+1675797836738	Marionette	INFO	Stopped listening on port 44011
+1675797837711	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1675797841463	geckodriver	INFO	Listening on 127.0.0.1:55483
+1675797842035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGuPgop"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797843517	Marionette	INFO	Marionette enabled
+1675797843561	Marionette	INFO	Listening on port 41921
+WebDriver BiDi listening on ws://localhost:39109
+Read port: 41921
+1675797843912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGuPgop/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39109/devtools/browser/8b4d91fc-2c35-4421-8359-b1d2da2a5cc0
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 66: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1675797939391	geckodriver	INFO	Listening on 127.0.0.1:42081
+1675797939956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel7PXHV"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797941086	Marionette	INFO	Marionette enabled
+1675797941095	Marionette	INFO	Listening on port 38021
+WebDriver BiDi listening on ws://localhost:45809
+Read port: 38021
+1675797941304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel7PXHV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45809/devtools/browser/6a730996-2d4a-4e5d-b219-71ebd2580516
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675797980471	geckodriver	INFO	Listening on 127.0.0.1:42107
+1675797981051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBq9Poo"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675797982452	Marionette	INFO	Marionette enabled
+1675797982461	Marionette	INFO	Listening on port 37911
+WebDriver BiDi listening on ws://localhost:38717
+Read port: 37911
+1675797982710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBq9Poo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38717/devtools/browser/e8242f51-d52c-4d11-a534-ae9b6fc195a4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675798101417	geckodriver	INFO	Listening on 127.0.0.1:60319
+1675798101477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHEeXZa"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798103082	Marionette	INFO	Marionette enabled
+1675798103091	Marionette	INFO	Listening on port 37631
+WebDriver BiDi listening on ws://localhost:58089
+Read port: 37631
+1675798103289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHEeXZa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58089/devtools/browser/1d2379bd-5d4c-425b-94df-46a246e41618
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675798151634	geckodriver	INFO	Listening on 127.0.0.1:47309
+1675798151753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUTdcn1"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798152877	Marionette	INFO	Marionette enabled
+1675798152883	Marionette	INFO	Listening on port 34613
+WebDriver BiDi listening on ws://localhost:51557
+Read port: 34613
+1675798153045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUTdcn1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51557/devtools/browser/60e8cd04-a7d1-4344-b697-5321359406fd
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675798161468	Marionette	INFO	Stopped listening on port 41921
+1675798164132	Marionette	INFO	Stopped listening on port 38021
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675798166799	Marionette	INFO	Stopped listening on port 40773
+1675798169558	Marionette	INFO	Stopped listening on port 37911
+1675798177494	Marionette	INFO	Stopped listening on port 37631
+1675798178908	Marionette	INFO	Stopped listening on port 34613
+1675798193519	geckodriver	INFO	Listening on 127.0.0.1:60097
+1675798193614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileebI2ue"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798195155	Marionette	INFO	Marionette enabled
+1675798195160	Marionette	INFO	Listening on port 39231
+WebDriver BiDi listening on ws://localhost:43463
+Read port: 39231
+1675798195386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileebI2ue/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43463/devtools/browser/73a96231-52a9-4384-bbb0-5c7eb7f5225e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675798603755	geckodriver	INFO	Listening on 127.0.0.1:40385
+1675798604343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefgz5wI"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798605457	Marionette	INFO	Marionette enabled
+1675798605462	Marionette	INFO	Listening on port 39725
+WebDriver BiDi listening on ws://localhost:40821
+Read port: 39725
+1675798605668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefgz5wI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40821/devtools/browser/96de4159-7871-4f28-bbba-a9fb8d4a9635
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675798659663	geckodriver	INFO	Listening on 127.0.0.1:34495
+1675798660222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8melvq"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798661527	Marionette	INFO	Marionette enabled
+1675798661531	Marionette	INFO	Listening on port 35893
+Read port: 35893
+WebDriver BiDi listening on ws://localhost:40927
+1675798661726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8melvq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40927/devtools/browser/845b29da-8600-4bdc-9c03-ecafe05dd219
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 66: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1675798714672	geckodriver	INFO	Listening on 127.0.0.1:47121
+1675798715231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOjy8CT"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798716565	Marionette	INFO	Marionette enabled
+1675798716569	Marionette	INFO	Listening on port 44401
+WebDriver BiDi listening on ws://localhost:35233
+Read port: 44401
+1675798716752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOjy8CT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35233/devtools/browser/cee41b8d-44c9-4596-a26c-e6c7a9bfa516
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675798757129	geckodriver	INFO	Listening on 127.0.0.1:39415
+1675798757740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMRGhK6"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675798758670	Marionette	INFO	Marionette enabled
+1675798758674	Marionette	INFO	Listening on port 43591
+WebDriver BiDi listening on ws://localhost:57495
+Read port: 43591
+1675798758880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMRGhK6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57495/devtools/browser/7ed3063b-fde7-4fe8-968e-f3f923a6c95b
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675800146776	Marionette	INFO	Stopped listening on port 43591
+1675800148394	Marionette	INFO	Stopped listening on port 44401
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675800149627	Marionette	INFO	Stopped listening on port 35893
+1675800150857	Marionette	INFO	Stopped listening on port 39725
+1675800418025	geckodriver	INFO	Listening on 127.0.0.1:38835
+1675800418591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehQQyEc"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675800419664	Marionette	INFO	Marionette enabled
+1675800419672	Marionette	INFO	Listening on port 39611
+WebDriver BiDi listening on ws://localhost:49881
+Read port: 39611
+1675800419878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehQQyEc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49881/devtools/browser/f7f0ef91-6fdc-4840-a3bd-b22863caade4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675800441714	geckodriver	INFO	Listening on 127.0.0.1:59899
+1675800442281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekkeELs"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675800443289	Marionette	INFO	Marionette enabled
+1675800443299	Marionette	INFO	Listening on port 33805
+WebDriver BiDi listening on ws://localhost:56079
+Read port: 33805
+1675800443453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekkeELs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56079/devtools/browser/c0cb3a68-ba5b-4eae-9147-6d2df32a66a5
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675800591430	geckodriver	INFO	Listening on 127.0.0.1:57269
+1675800591978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileykEqsT"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675800592982	Marionette	INFO	Marionette enabled
+1675800592986	Marionette	INFO	Listening on port 35661
+WebDriver BiDi listening on ws://localhost:60991
+Read port: 35661
+1675800593194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileykEqsT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60991/devtools/browser/7793809f-e9d3-41db-9da9-1f0fa18588c3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675801075331	Marionette	INFO	Stopped listening on port 35661
+1675801093803	Marionette	INFO	Stopped listening on port 39611
+1675801095865	Marionette	INFO	Stopped listening on port 33805
+1675801100099	geckodriver	INFO	Listening on 127.0.0.1:53243
+1675801100655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVKWRvQ"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675801101815	Marionette	INFO	Marionette enabled
+1675801101819	Marionette	INFO	Listening on port 37875
+WebDriver BiDi listening on ws://localhost:52023
+Read port: 37875
+1675801101993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVKWRvQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52023/devtools/browser/f75ac242-fb13-4f39-bbe3-6512d05a1161
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675801312896	Marionette	INFO	Stopped listening on port 37875
+1675801355891	geckodriver	INFO	Listening on 127.0.0.1:52467
+1675801356460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1MWbP1"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675801357680	Marionette	INFO	Marionette enabled
+1675801357686	Marionette	INFO	Listening on port 42233
+WebDriver BiDi listening on ws://localhost:35805
+Read port: 42233
+1675801357851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1MWbP1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35805/devtools/browser/8297a59a-a39b-4dc7-81dd-50a3680d420e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675801512623	geckodriver	INFO	Listening on 127.0.0.1:47963
+1675801513180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejrWQVs"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675801514139	Marionette	INFO	Marionette enabled
+1675801514146	Marionette	INFO	Listening on port 46531
+WebDriver BiDi listening on ws://localhost:48481
+Read port: 46531
+1675801514363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejrWQVs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48481/devtools/browser/1d639d99-7d1d-4ccc-98ef-de0efa15f38b
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675801629503	geckodriver	INFO	Listening on 127.0.0.1:50393
+1675801630065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledA5IjT"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675801631452	Marionette	INFO	Marionette enabled
+1675801631457	Marionette	INFO	Listening on port 42169
+WebDriver BiDi listening on ws://localhost:47435
+Read port: 42169
+1675801631651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledA5IjT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47435/devtools/browser/1b32a7eb-cc7f-4c76-874c-fffc9690d007
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yD/l/en_US/dQUdpeV3fam.js?_nc_x=Ij3Wp8lg5Kz, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675802779592	Marionette	INFO	Stopped listening on port 42233
+1675802781728	Marionette	INFO	Stopped listening on port 46531
+1675802783579	Marionette	INFO	Stopped listening on port 42169
